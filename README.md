@@ -2,7 +2,7 @@
 
 ###
 
-<p data-importer="text" align="left">My name is Alea Rakha Mahardhika and I'm a Learning Programming, from  Indonesia</p>
+<p data-importer="text" align="left">My name is Allea Rakha Mahardhika and I'm a Learning Programming, from  Indonesia</p>
 
 ###
 
